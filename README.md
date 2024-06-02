@@ -1,4 +1,5 @@
-# Financial Metrics Analysis Dashboard
+## Project Link
+You can view the project on Tableau Public [here](https://public.tableau.com/app/profile/julia.macha7529/viz/SaaS_revenue/ComprehensiveSaaSRevenueDashboard?publish=yes).
 
 ## Description
 This Tableau project aims to visualize and analyze key financial metrics for the company. We will focus on the following metrics:
